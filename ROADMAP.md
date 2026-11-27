@@ -5,7 +5,7 @@
 - [x] Reutilizar el frontend comercial y la demo ficticia en un paquete separado, sin metadatos de hosting de ChatGPT.
 - [x] Preparar un repositorio local independiente y publicación manual en GitHub Pages.
 - [x] Crear el repositorio comercial independiente GB-Films/kaza-comercial desde la sesión del titular.
-- [ ] Verificar la URL efectiva de Pages y registrar la prueba desde el enlace público.
+- [x] Publicar y verificar la URL efectiva de Pages: https://gb-films.github.io/kaza-comercial/ (pruebas en VALIDATION.md).
 
 ## Sugerencias sin autorización de implementación
 
@@ -23,4 +23,5 @@
 ## Regla del agente
 
 Trabajar solo en tareas explícitamente autorizadas de KAZA Comercial; entregar rama y borrador/PR revisable. No fusionar ni publicar cambios futuros sin dirección explícita. Esta cola no autoriza su propia ejecución. No acceder ni modificar el proyecto de casamiento real, sus repositorios, dominios, enlaces, archivos, credenciales o datos.
+
 

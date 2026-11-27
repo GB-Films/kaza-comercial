@@ -2,6 +2,8 @@
 
 Frontend comercial estático de webs para casamientos. La demo de Ana y Julián es ficticia: las respuestas no se guardan, los regalos no permiten pagos y el formulario solo prepara un texto para copiar.
 
+Sitio publicado y verificado: https://gb-films.github.io/kaza-comercial/
+
 Repositorio comercial independiente: https://github.com/GB-Films/kaza-comercial
 
 ## Revisar localmente
@@ -21,3 +23,4 @@ Referencia: [workflows de GitHub Pages](https://docs.github.com/en/pages/getting
 ## Trabajo futuro
 
 Las nuevas tareas requieren autorización concreta. Se entregan en una rama y borrador de PR para revisión. No fusionar ni ejecutar el workflow de publicación sin dirección explícita para ese cambio. Ver `ROADMAP.md`.
+
